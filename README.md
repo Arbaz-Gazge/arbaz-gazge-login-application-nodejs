@@ -35,7 +35,7 @@ Before you begin, you should have the following:
 
    - Change your current directory to the project directory:
      ```
-     cd mern-app-Deployment
+     cd arbaz-gazge-login-application-nodejs
      ```
      
 5. **Edit the Server Configuration**:
