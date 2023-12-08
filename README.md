@@ -6,7 +6,7 @@
 - NGINX is employed to enhance both performance and security and to re-route the request from <IP:PORT> to <IP>.
 - It also features an Autoscaling group that allows machines to be scaled up or down based on CPU usage.
 - ASG uses a custom AMI and launch template with custom script in order to facilitate application setup and running the application.
-- Monitoring and observability is achieved through cloudwatch and SNS.
+- Monitoring and observability is achieved through cloudwatch.
 - Jenkins is used on <IP:8080> to perform complete CICD.
 
 ## Prerequisites
